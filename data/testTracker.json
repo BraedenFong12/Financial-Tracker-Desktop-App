@@ -1,0 +1,25 @@
+{
+  "incomes": [{
+    "amount": 10000,
+    "source": "Salary"
+  }],
+  "balance": 9500,
+  "savingsGoals": [{
+    "totalContributions": 0,
+    "targetAmount": 40000,
+    "goalName": "Tesla"
+  },
+    {"totalContributions": 0,
+    "targetAmount":  40000,
+    "goalName": "Tesla"}],
+  "expenses": [
+    {
+      "amount": 300,
+      "description": "Shoes"
+    },
+    {
+      "amount": 200,
+      "description": "Groceries"
+    }
+  ]
+}

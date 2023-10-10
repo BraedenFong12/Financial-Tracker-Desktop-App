@@ -1,0 +1,12 @@
+{
+    "incomes": [{
+        "amount": 1000,
+        "source": "Tony Chen"
+    }],
+    "balance": 900,
+    "savingsGoals": [],
+    "expenses": [{
+        "amount": 100,
+        "description": "Car"
+    }]
+}

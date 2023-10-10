@@ -1,0 +1,23 @@
+{
+    "incomes": [{
+        "amount": 100,
+        "source": "aqua"
+    }],
+    "balance": 9500,
+    "savingsGoals": [
+        {
+            "totalContributions": 0,
+            "targetAmount": 200,
+            "goalName": "Aquarian"
+        },
+        {
+            "totalContributions": 0,
+            "targetAmount": 200,
+            "goalName": "Aquarian2"
+        }
+    ],
+    "expenses": [{
+        "amount": 100,
+        "description": "Tony"
+    }]
+}
